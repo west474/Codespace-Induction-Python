@@ -61,7 +61,7 @@
 
 # # Activity 1: Sum the values in a list
 # myList = [1,2,3,4,5,6,7,8,9,10] # List of numbers to be summed together
-# print(sum(myList)) # Using the Python sum method and printing the result
+# print(sum(myList)) # Using the Python sum function and printing the result
 
 # #==========
 
